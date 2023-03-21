@@ -4,7 +4,7 @@
 #Last edited October 3, 2022
 ###############################
 # install teapot
-# 1. git clone https://github.com/ /opt/teapot.sh
+# 1. git clone https://github.com/SkysNotes/teapot/blob/main/teapot.sh /opt/teapot.sh
 # 2. ln -s ~/opt/teapot.sh /usr/bin/teapot
 
 # isntall parcenmap
